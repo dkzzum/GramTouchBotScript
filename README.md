@@ -11,3 +11,5 @@ It works completely randomly, which reduces the probability of detection by admi
 
 ### Python Version 🐍
 Preferably Python 3.10+
+
+### ‼️ The script is not updated (since the end of July)
